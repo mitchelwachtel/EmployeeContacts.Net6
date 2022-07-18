@@ -1,0 +1,11 @@
+/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/WebUI/obj/Debug/net6.0/WebAPI.csproj.AssemblyReference.cache
+/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/WebUI/obj/Debug/net6.0/spa.proxy.json
+/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/WebUI/obj/Debug/net6.0/WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/WebUI/obj/Debug/net6.0/WebAPI.AssemblyInfoInputs.cache
+/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/WebUI/obj/Debug/net6.0/WebAPI.AssemblyInfo.cs
+/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/WebUI/obj/Debug/net6.0/WebAPI.csproj.CoreCompileInputs.cache
+/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/WebUI/obj/Debug/net6.0/cleanArchPlayground.WebUI.MvcApplicationPartsAssemblyInfo.cs
+/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/WebUI/obj/Debug/net6.0/cleanArchPlayground.WebUI.MvcApplicationPartsAssemblyInfo.cache
+/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/WebUI/obj/Debug/net6.0/cleanArchPlayground.WebUI.dll
+/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/WebUI/obj/Debug/net6.0/refint/cleanArchPlayground.WebUI.dll
+/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/WebUI/obj/Debug/net6.0/cleanArchPlayground.WebUI.pdb

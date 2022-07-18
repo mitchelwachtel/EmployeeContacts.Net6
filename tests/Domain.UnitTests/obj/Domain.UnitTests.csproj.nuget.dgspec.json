@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/tests/Domain.UnitTests/Domain.UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/Domain/Domain.csproj",
+        "projectName": "cleanArchPlayground.Domain",
+        "projectPath": "/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/Domain/Domain.csproj",
+        "packagesPath": "/Users/mitchelwachtel/.nuget/packages/",
+        "outputPath": "/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mitchelwachtel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/tests/Domain.UnitTests/Domain.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/tests/Domain.UnitTests/Domain.UnitTests.csproj",
+        "projectName": "cleanArchPlayground.Domain.UnitTests",
+        "projectPath": "/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/tests/Domain.UnitTests/Domain.UnitTests.csproj",
+        "packagesPath": "/Users/mitchelwachtel/.nuget/packages/",
+        "outputPath": "/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/tests/Domain.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mitchelwachtel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/Domain/Domain.csproj": {
+                "projectPath": "/Users/mitchelwachtel/Projects/EmployeeContacts.Net6/EmployeeContacts/src/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.7.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.2.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>EmployeeContacts.Domain</RootNamespace>
+        <AssemblyName>cleanArchPlayground.Domain</AssemblyName>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MediatR" Version="9.0.0" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.7" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.7">
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        <PrivateAssets>all</PrivateAssets>
+      </PackageReference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Enums\" />
+      <None Remove="Exceptions\" />
+      <None Remove="Interfaces\" />
+      <None Remove="DTOs\" />
+      <None Remove="Microsoft.EntityFrameworkCore" />
+      <None Remove="Microsoft.EntityFrameworkCore.Design" />
+      <None Remove="DTOs\Employee\" />
+      <None Remove="DTOs\Contact\" />
+      <None Remove="DTOs\Telephone\" />
+      <None Remove="DTOs\Address\" />
+      <None Remove="Entities\Human\" />
+      <None Remove="Entities\Communication\" />
+    </ItemGroup>
+    <ItemGroup>
+      <Folder Include="Enums\" />
+      <Folder Include="Exceptions\" />
+      <Folder Include="Interfaces\" />
+      <Folder Include="DTOs\" />
+      <Folder Include="DTOs\Employee\" />
+      <Folder Include="DTOs\Contact\" />
+      <Folder Include="DTOs\Telephone\" />
+      <Folder Include="DTOs\Address\" />
+      <Folder Include="Entities\Human\" />
+      <Folder Include="Entities\Communication\" />
+    </ItemGroup>
+</Project>
